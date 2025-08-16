@@ -55,6 +55,11 @@ const CUSTOMER_SITES = {
         name: '极速资源',
         detail: 'https://jszyapi.com', 
     },
+    hongniuzy: {
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod',
+        name: '红牛资源',
+        detail: 'https://www.hongniuzy.com/', 
+    },
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
